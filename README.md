@@ -6,7 +6,7 @@
 
 🔍 **Beyond finance**, I have experience in **business analysis, process optimization, and stakeholder communication**, making me a great fit for **data-driven roles in finance and business intelligence**. Whether it's **building dashboards, streamlining workflows, or uncovering trends**, I enjoy using **data to solve real-world business challenges**. 
 
----
+--- 
 
 ### 🔧 Technologies & Tools I Use:
 - **Finance & ERP**: SAP FICO, SAP S/4HANA, IFRS Compliance  
