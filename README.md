@@ -9,7 +9,7 @@
 --- 
 
 ### 🔧 Technologies & Tools I Use:
-- **Finance & ERP**: SAP FICO, SAP S/4HANA, IFRS Compliance  
+- **Finance & ERP**: SAP FICO, SAP S/4HANA, P&L, Balance Sheet, Cash Flow Forecasting
 - **Data & BI Tools**: SQL, Python (Pandas, NumPy, Matplotlib), Power BI  
 - **Automation & Process Optimization**: VBA, Power Automate, Excel Macros  
 
