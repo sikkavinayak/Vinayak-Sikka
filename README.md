@@ -2,7 +2,7 @@
 
 🚀 **Finance & Data Analytics Professional** | 📊 SQL | 🐍 Python | 📈 Power BI | 💰 SAP HANA 
 
-I'm passionate about **finance, data analytics, and business strategy**—I love turning numbers into **actionable insights** that drive decision-making! With expertise in **SQL, Python, Power BI, and SAP FICO**, I work on **financial analysis, investment portfolio tracking, business process automation, and data-driven strategy development**.  
+💡 I'm passionate about **finance, data analytics, and business strategy**—I love turning numbers into **actionable insights** that drive decision-making! With expertise in **SQL, Python, Power BI, and SAP FICO**, I work on **financial analysis, investment portfolio tracking, business process automation, and data-driven strategy development**.
 
 🔍 **Beyond finance**, I have experience in **business analysis, process optimization, and stakeholder communication**, making me a great fit for **data-driven roles in finance and business intelligence**. Whether it's **building dashboards, streamlining workflows, or uncovering trends**, I enjoy using **data to solve real-world business challenges**. 
 
