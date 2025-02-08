@@ -18,10 +18,9 @@
 ### 📫 Connect with Me:
 📩 **Email**: [sikkavinayak21@gmail.com](mailto:sikkavinayak21@gmail.com)  
 🔗 **LinkedIn**: [Vinayak Sikka](https://www.linkedin.com/in/vinayak-sikka)  
-🔗 **Portfolio**: [My Data Science Work](https://www.datascienceportfol.io/SikkaVinayak)  
-🔗 **GitHub**: [GitHub Profile](https://github.com/sikkavinayak)  
+🔗 **Portfolio**: [My Data Science Work](https://www.datascienceportfol.io/SikkaVinayak)   
 
-⚡ **Fun Fact:** *Numbers don’t lie, but they can be beautifully visualized!*  
+⚡ Fun Fact: Data is like a good joke—if you have to explain it too much, it's probably not good! 😆 
 
 ---
 
