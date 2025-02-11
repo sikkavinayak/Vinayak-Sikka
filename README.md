@@ -1,6 +1,6 @@
 # Hi 👋, I'm Vinayak Sikka  
 
-🚀 **Finance & Data Analytics Professional** | 📊 SQL | 🐍 Python | 📈 Power BI | 💰 SAP HANA 
+🚀 **Data-Driven Product & Finance Professional** | Product Strategy & Automation
 
 💡 I'm passionate about finance, data analytics, and product strategy, as I believe that data-driven insights are the foundation of informed decision-making and business growth. I thrive on analyzing complex financial datasets, market trends, and customer behaviors to identify patterns, optimize processes, and develop scalable product solutions.
 
@@ -23,7 +23,7 @@
 ### 📫 Connect with Me:
 📩 **Email**: [sikkavinayak21@gmail.com](mailto:sikkavinayak21@gmail.com)  
 🔗 **LinkedIn**: [Vinayak Sikka](https://www.linkedin.com/in/vinayak-sikka)  
-🔗 **Portfolio**: [My Data Science Work](https://www.datascienceportfol.io/SikkaVinayak)   
+🔗 **Portfolio**: [Take a Look](https://www.datascienceportfol.io/SikkaVinayak)   
 
 ⚡ Fun Fact: Data is like a good joke—if you have to explain it too much, it's probably not good! 😆 
 
