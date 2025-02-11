@@ -2,16 +2,21 @@
 
 🚀 **Finance & Data Analytics Professional** | 📊 SQL | 🐍 Python | 📈 Power BI | 💰 SAP HANA 
 
-💡 I'm passionate about **finance, data analytics, and business strategy**—I love turning numbers into **actionable insights** that drive decision-making! With expertise in **SQL, Python, Power BI, and SAP FICO**, I work on **financial analysis, investment portfolio tracking, business process automation, and data-driven strategy development**.
+💡 I'm passionate about finance, data analytics, and product strategy, as I believe that data-driven insights are the foundation of informed decision-making and business growth. I thrive on analyzing complex financial datasets, market trends, and customer behaviors to identify patterns, optimize processes, and develop scalable product solutions.
 
-🔍 **Beyond finance**, I have experience in **business analysis, process optimization, and stakeholder communication**, making me a great fit for **data-driven roles in finance and business intelligence**. Whether it's **building dashboards, streamlining workflows, or uncovering trends**, I enjoy using **data to solve real-world business challenges**. 
+🔍 Whether it's building dashboards, automating workflows, or refining product roadmaps, I thrive on solving real-world business challenges with data and technology. 
 
 --- 
 
 ### 🔧 Technologies & Tools I Use:
-- **Finance & ERP**: SAP FICO, SAP S/4HANA, P&L, Balance Sheet, Cash Flow Forecasting
-- **Data & BI Tools**: SQL, Python (Pandas, NumPy, Matplotlib), Power BI  
-- **Automation & Process Optimization**: VBA, Power Automate, Excel Macros  
+
+📈 Product & Data Analytics: SQL, Python (Pandas, NumPy, Matplotlib), Power BI, A/B Testing, Data Visualization
+
+💰 Finance & ERP: SAP FICO, SAP S/4HANA, P&L Analysis, Balance Sheet Management, Cash Flow Forecasting
+
+⚙️ Automation & Process Optimization: Power Automate, VBA, Excel Macros, No-Code Tools (Zapier, Airtable), Workflow Automation
+
+🛠 Product Management & Strategy: Roadmap Prioritization, Market Research, Competitive Analysis, User Insights
 
 ---
 
